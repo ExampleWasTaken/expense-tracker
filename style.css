@@ -1,0 +1,42 @@
+:root {
+    text-align: center;
+    font-family: "SF Pro Display", Helvetica;
+}
+
+h1 {
+    font-weight: 250;
+}
+
+form {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 4px, solid, #0F2040;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td, th {
+    border: 1px solid #0F2040;
+    text-align: center;
+    padding: 8px;
+
+}
+
+.sec-foreground {
+    color: #0F2040;
+}
+
+.sub-header {
+    font-size: 25px;
+}
+
+.display-block {
+    display: block;
+}
+
+.fg-red {
+    color: red;
+}
